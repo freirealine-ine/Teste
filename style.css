@@ -3,3 +3,10 @@ body{background-color: rgb(168, 191, 220);}
 img{enypen is 7
     width: 500px;
 }
+
+.item{
+       font-size: 20px;
+}
+p{
+    font-size: 18px;
+}
